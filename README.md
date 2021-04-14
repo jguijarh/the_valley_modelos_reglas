@@ -1,2 +1,2 @@
-# the_valley_modelos_reglas
+# Clase Modelos basados en reglas de asociación
 modelos basados en reglas para la clase de the valley 
